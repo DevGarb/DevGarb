@@ -19,4 +19,11 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 </div><br/>
 
-#### Graduando em Análise e Desenvolvimento de Sistemas na Estácio e programação Full-Stack pela DigitalCollege.<br/><br/>Descobri minha paixão por tecnologia ainda criança e hoje meu objetivo é usar a programação para fazer a diferença no mundo!
+#### Graduando em Análise e Desenvolvimento de Sistemas na Estácio e programação Full-Stack pela DigitalCollege.<br/><br/>
+
+A organização é a chave para o sucesso tanto profissional quanto pessoal.
+Sempre procuro aprender coisas novas para me capacitar e adquirir conhecimento.
+
+Tenho cursos de Web Design, Inglês intermediário, Eletrônica Básica, Redes e Wi-fi.<br/>
+Trabalho com: HTML / CSS / BOOTSTRAP
+Tenho noções em: JAVASCRIPT / PYTHON / ReactJs / NodeJs / NextJs / MongoDB
