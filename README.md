@@ -4,7 +4,6 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielcporto)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/devgarb-fs/)
 
-![DevGarb GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarb&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGarb&layout=compact)
 
 
