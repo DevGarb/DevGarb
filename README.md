@@ -44,4 +44,4 @@ Sempre procuro aprender coisas novas para me capacitar e adquirir conhecimento.
 
 Tenho cursos de Web Design, Inglês intermediário, Eletrônica Básica, Redes e Wi-fi.<br/>
 Trabalho com: HTML / CSS / BOOTSTRAP
-Tenho noções em: JAVASCRIPT / PYTHON / ReactJs / NodeJs / NextJs / MongoDB
+JAVASCRIPT / ReactJs / NodeJs / NextJs / MongoDB
