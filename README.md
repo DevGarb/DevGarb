@@ -42,6 +42,5 @@
 A organização é a chave para o sucesso tanto profissional quanto pessoal.
 Sempre procuro aprender coisas novas para me capacitar e adquirir conhecimento.
 
-Tenho cursos de Web Design, Inglês intermediário, Eletrônica Básica, Redes e Wi-fi.<br/>
-Trabalho com: HTML / CSS / BOOTSTRAP
-JAVASCRIPT / ReactJs / NodeJs / NextJs / MongoDB
+Tenho cursos de Web Design, Front End, Inglês intermediário, Eletrônica Básica, Redes e Wi-fi.<br/>
+Trabalho com: HTML / CSS / JavaScript / ReactJs / MongoDB
