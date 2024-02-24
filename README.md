@@ -4,8 +4,9 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielcporto)
 [![Blog](https://img.shields.io/badge/Portifólio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://devgarb.github.io/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGarb&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5&hide=html,css)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarb&show_icons=true&theme=dark&hide=stars,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGarb&layout=compact)
 
 
 ## Minhas Skills
