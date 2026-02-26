@@ -38,10 +38,4 @@
 
 <br/>
 
-#### Graduando em Análise e Desenvolvimento de Sistemas na Estácio e programação Full-Stack pela DigitalCollege.<br/><br/>
-
-A organização é a chave para o sucesso tanto profissional quanto pessoal.
-Sempre procuro aprender coisas novas para me capacitar e adquirir conhecimento.
-
-Tenho certificados em: Web Design, Front End, Inglês intermediário, Eletrônica Básica, Redes e Wi-fi.<br/>
 
