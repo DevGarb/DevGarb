@@ -1,41 +1,56 @@
-# Olá, sou o Gabriel Porto; 🤙🏽
+<div align="center">
+  <h1>Olá, eu sou o Gabriel Porto 🤙🏽</h1>
+  <h3>Software Engineer | Tech Lead | AI & Vibecoding Enthusiast</h3>
+  <p><i>Transformando café e ideias em ecossistemas escaláveis, automações inteligentes e código limpo.</i></p>
+</div>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgarb-fs/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielcporto)
-[![Blog](https://img.shields.io/badge/Portifólio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://devgarb.github.io/)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGarb&theme=dark&include_all_commits=true&count_private=true&count_weight=0.5&hide=html,css)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarb&show_icons=true&theme=dark&hide=stars,issues)
+**Sobre mim**
 
+* 💻 **Software Engineer & Tech Lead:** Focado em arquitetar soluções robustas de ponta a ponta, liderar times técnicos e garantir entregas de alto impacto.
+* 🤖 **Inteligência Artificial & Agentes:** Criador de ecossistemas autônomos. Desenvolvo integrações complexas de IA para resolver problemas reais e otimizar rotinas.
+* ⚡ **Automação & Vibecoding:** Especialista em orquestração e fluxos de trabalho usando **n8n**. Acredito no poder do vibecoding para acelerar o desenvolvimento com auxílio de IA.
+* 🚀 **Full-Stack:** Desde a modelagem do banco de dados, desenvolvimento da infraestrutura (Docker) até o visual do Frontend.
 
+---
 
-## Minhas Skills
+**Minhas Skills**
 
-**Aplicações e dados**
+**Frontend & Backend**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+**Infra & DevOps**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Utilidades**
+**AI, Automação & Vibecoding**  
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automação-005C84?style=for-the-badge&logo=zap&logoColor=white)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+---
 
-**DevOps**
+**Github Analytics**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true"/>
+</div>
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+**Vamos construir algo juntos?**
 
-<br/>
-
-
+<div align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
