@@ -14,6 +14,17 @@
 * 🚀 **Full-Stack:** Desde a modelagem do banco de dados, desenvolvimento da infraestrutura (Docker) até o visual do Frontend.
 
 ---
+## 🐚 Minhas certificações
+
+<!-- Imagem única centralizada — mesmo truque de sempre: 
+<div align="center"> por fora da tag <img>. O "width" controla o tamanho final; como a imagem original é quadrada (1254x1254), não precisa definir "height", ele se ajusta sozinho mantendo a proporção. --> 
+<div align="center"> 
+  <img width="200" alt="Certificações" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" /> 
+  <img width="200" alt="Certificações" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" /> 
+  <img width="200" alt="Certificações" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+</div>
+
+---
 
 **Minhas Skills**
 
