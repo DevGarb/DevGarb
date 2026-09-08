@@ -36,15 +36,14 @@
 ---
 
 **Github Analytics**
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true"/>
-</div>
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=false">   
+  <img  alt="Gabriel Porto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gabriel Porto?cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=false" />
+  </a>
+  </div>
 ---
 
-**Vamos construir algo juntos?**
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gbrl-prt/" target="_blank">
