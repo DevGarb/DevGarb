@@ -37,9 +37,9 @@
 
 **Github Analytics**
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=false">   
-  <img  alt="Gabriel Porto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gabriel Porto?cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=false" />
-  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=true">
+    <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DevGarb?cardType=github&theme=great-gatsby&fontFamily=Marvel&preferLogin=true" />
+</a>
   </div>
 ---
 
