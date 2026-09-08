@@ -18,7 +18,11 @@
 
 <!-- Imagem única centralizada — mesmo truque de sempre: 
 <div align="center"> por fora da tag <img>. O "width" controla o tamanho final; como a imagem original é quadrada (1254x1254), não precisa definir "height", ele se ajusta sozinho mantendo a proporção. --> 
-<div align="center"> 
+<div align="center">
+   <img width="380" alt="Certificações" src="https://private-user-images.githubusercontent.com/154357278/634227078-aee8ac89-19e8-42ca-b790-89958bd33ea9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MjgzNDEsIm5iZiI6MTc4ODgyODA0MSwicGF0aCI6Ii8xNTQzNTcyNzgvNjM0MjI3MDc4LWFlZThhYzg5LTE5ZTgtNDJjYS1iNzkwLTg5OTU4YmQzM2VhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwOFQwMDQwNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjgyY2IyZmIwMjNlYWYyMDljY2UxNzM2ZTkxYWI3NWEwNWIyZDJjZGM1MGNkNDQxNzM3OTQ3YWNhNmYwNmY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.40c8JB8cQi8Qbtga8uvlyH_ZbAw3vSCsQbxidR4RzMs" />
+</div>
+<div align="center">
+ 
   <img width="200" alt="Certificações" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" /> 
   <img width="200" alt="Certificações" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" /> 
   <img width="200" alt="Certificações" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
